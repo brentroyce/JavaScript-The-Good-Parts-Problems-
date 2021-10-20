@@ -1,1 +1,1 @@
-# JavaScript-The-Good-Parts-Problems-
+# JavaScript-The-Good-Parts-Problems
